@@ -1,6 +1,15 @@
 {
   "item.tutorialmod.sapphire": "Sapphire",
   "item.tutorialmod.raw_sapphire": "Raw Sapphire",
+  "item.tutorialmod.gims_glasses": "Gims Sunglasses",
+  "item.tutorialmod.inferior_glasses": "Inferior Sunglasses",
 
-  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+
+  "block.tutorialmod.sapphire_block": "Block of Sapphire",
+  "block.tutorialmod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.tutorialmod.gims_block": "Gims Block",
+  "block.tutorialmod.inferior_glasses_block": "Inferior Sunglasses Block",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab",
+  "creativetab.personal_added": "Personal Added"
 }

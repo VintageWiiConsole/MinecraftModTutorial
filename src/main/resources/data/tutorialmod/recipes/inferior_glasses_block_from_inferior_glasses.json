@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "glasses",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:inferior_glasses"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:inferior_glasses_block"
+  }
+}

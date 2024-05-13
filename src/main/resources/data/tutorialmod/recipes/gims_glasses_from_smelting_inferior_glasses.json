@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 10,
+  "group": "glasses",
+  "ingredient": {
+    "item": "tutorialmod:inferior_glasses"
+  },
+  "result": "tutorialmod:gims_glasses"
+}

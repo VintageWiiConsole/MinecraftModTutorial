@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "glasses",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:gims_glasses"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:gims_block"
+  }
+}
